@@ -1,0 +1,8 @@
+O que significa Html - 
+Hyper Text Markup Language - Linguagem de marcação de hiper Texto
+
+MARCAÇÃO - Determina a Localização da Informação 
+SEMÂNTICA - Determina o Significado Ou Sentido da Informação
+TAG - Comando Html 
+Language - Linguagem  - INFORMÁTICA - conjunto de símbolos, palavras e regras usadas na contrução de senteças que expressam e processam intrução para computadores.
+DOCUMENTO- É o Arquivo HTML Como um Todo
